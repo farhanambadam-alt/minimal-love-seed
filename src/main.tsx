@@ -1,4 +1,4 @@
-// RepoPush - GitHub Repository Management
+// RepoPush - GitHub Repository Management Platform
 import { createRoot } from "react-dom/client";
 import App from "./App.tsx";
 import "./index.css";
